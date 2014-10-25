@@ -10,10 +10,10 @@ Install the script "run_analysis.R" into the same directory
 
 Your "R" environment must have the following packages installed:
 
-reshape
+reshape2
 
 use the command:
-> install.packages("<packagename>")
+> install.packages("packagename")
 
 to run the script type:
 > source("./run_analysis.R")
